@@ -1,6 +1,8 @@
 # Mufeed — Trusted School Reviews for Parents in Jordan
 
-**مفيد | تجارب تساعدك تختار** — an independent, bilingual platform where parents in Jordan find schools, nurseries, kindergartens and online learning platforms, and read honest reviews from other families before choosing.
+**مفيد | تجارب تساعدك تختار**
+
+An independent, bilingual platform where parents in Jordan find schools, nurseries, kindergartens and online learning platforms, and read honest reviews from other families before choosing.
 
 🔗 Live product: **[mufeed-edu.com](https://mufeed-edu.com)**
 
